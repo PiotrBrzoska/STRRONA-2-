@@ -1,0 +1,420 @@
+#a1{
+width: 100%;
+height: 50vh;
+background-color: white;
+} 
+
+
+
+#aa1{
+width: 70%;
+display: flex;
+flex-wrap: wrap;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#aa2{
+
+width: 70%;
+font-size: 30PX;
+}
+#aa3{
+width: 30%;
+
+}
+    input{
+padding: 10px;
+width: 40%;
+position: relative;
+top: 30%;
+background-color: rgb(226, 226, 226);
+border-style: none;
+color: rgb(129, 129, 129);
+
+
+    }
+    #button2{
+        padding: 10px;
+        width: 50%;
+        position: relative;
+        top: 30%;
+        background-color: aqua;
+        border-style: none;
+        color: rgb(255, 255, 255);
+        transition: all 0.5s;
+
+            }
+            #button2:hover{
+                padding: 10px;
+        width: 50%;
+        position: relative;
+        top: 30%;
+        background-color: rgb(0, 148, 148);
+        border-style: none;
+        color: rgb(255, 255, 255);
+
+
+
+            }
+
+#aa4{
+width: 30%;
+display: flex;
+justify-content: space-between;
+
+}
+
+#link{
+color: rgb(82, 82, 82);
+text-decoration: none;
+transform: scale(1);
+transition: all 0.5s;
+
+}
+#link:hover{
+color: black;
+text-decoration: underline;
+transform: scale(2);
+}
+#aa5{
+    width: 40%;
+}
+
+#aa6{
+    width: 30%;
+    display: flex;
+justify-content: space-between;
+}
+#icon{
+height: 15px;
+}
+    
+
+#a2{
+    width: 100%;
+    height: 50vh;
+    background-color: black;
+    
+    
+    }    #aa7{
+width: 33%;
+display: flex;
+flex-direction: column;
+margin-top: 5%;
+align-items: center;
+justify-content: space-around;
+}
+
+#aa8{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    justify-content: space-around;
+    }
+    
+
+    #aa9{
+        width: 33%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 5%;
+        align-items: center;
+        justify-content: space-around;
+        }
+        
+
+#ps4{
+width: 200px;
+
+}
+#ps4:hover{
+box-shadow: 0 0 10px 10px rgb(155, 155, 155);
+
+transition: all 0.5s;
+
+}
+
+#button4{
+border-style: none;
+background-color: aqua;
+color: white;
+padding: 10px;
+transform: scale(1);
+transition: all 0.5s;
+}
+#button4:hover{
+background-color: rgb(0, 148, 148);
+border-style: none;
+color: rgb(255, 255, 255);
+transform: scale(1.5);
+transform: rotate(180deg);
+}
+
+#b1{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    }
+
+#b2{
+width: 70%;
+height: 50vh;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#b3{
+color: white;
+font-size: 50px;
+margin-top: 11%;
+}
+
+#b4{
+    border-bottom: 1px solid rgb(168, 168, 168);
+}
+#button6:hover{
+padding: 10px;
+border-style: none;
+color: white;
+background-color: aqua;
+}
+
+
+#button6{
+    transition: all 0.5s;
+    padding: 10px;
+    border-style: none;
+    color: white;
+    background-color: rgba(0, 255, 255, 0);
+}
+
+#c1{
+background-color: white;
+width: 100%;
+height: 70vh;
+}
+#c2{
+margin-top: 15vh;
+width: 70%;
+height: 80%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#c3{
+width: 30%;
+height: 100%;
+display: flex;
+flex-direction: column;
+}
+
+.c4{
+background-color: rgb(27, 27, 27);
+border:1px solid white;
+height: 20%;
+color: white;
+float: left;
+}
+
+#image{
+height: 80px;
+margin-left: 10px;
+margin-top: 10px;
+float: left;
+}
+
+#c9{
+width: 70%;
+height: 100%;
+
+
+
+}
+video{
+
+height: 100%;
+width: 100%;
+}
+
+#d1{
+width: 100%;
+height: 80vh;
+background-image: url(rosie-sun-1L71sPT5XKc-unsplash.jpg);
+border-bottom: 1px solid white;
+
+}
+#d2{
+width: 70%;
+height: 80%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#d3{
+width: 60%;
+height: 100%;
+display: flex;
+flex-direction: column;
+margin-top: 5%;
+}
+#image2{
+height: 120px;
+float: left;
+
+}
+#d5{
+    width: 100%;
+    height: 25%;
+    color: white;
+    font-size: 40px;
+
+}
+.d4{
+width: 100%;
+height: 25%;
+color: white;
+
+
+
+}
+
+.d4:hover{
+    width: 100%;
+    height: 25%;
+    color: white;
+background-color: rgb(0, 0, 0);
+transition: all 0.5s;
+}
+
+#d6{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    margin-top: 8%;
+}
+#d7{
+color: white;
+}
+#image3{
+height: 80%;
+
+
+}
+
+#e1{
+height: 50vh;
+width: 100%;
+background-image: url(rosie-sun-1L71sPT5XKc-unsplash.jpg);
+}
+#e2{
+height: 80%;
+width: 70%;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin-left: auto;
+margin-right: auto;
+
+}
+#e3{
+    margin-top: 5%;
+   height: 10%;
+    width: 25%;
+    color: white;
+    font-size: 40px;
+}
+#e4{
+    margin-top: 5%;
+    height: 10%;
+    width: 25%;
+    color: white;
+    font-size: 40px;
+}
+#e5{
+    
+    margin-top: 5%;
+    height: 10%;
+    width: 25%;
+    color: white;
+    font-size: 40px;
+}
+#e6{
+    margin-top: 5%;
+    height: 10%;
+    width: 25%;
+    color: white;
+    font-size: 40px;
+}
+#e7{
+
+    height: 10%;
+    width: 25%;
+    color: rgb(146, 146, 146);
+    font-size:20px;
+    
+}
+#e8{
+    height: 20%;
+    width: 25%;
+    color: rgb(146, 146, 146);
+    font-size: 20px;
+}
+#e9{
+    height: 20%;
+    width: 25%;
+    color: rgb(146, 146, 146);
+    font-size: 20px;
+}
+#e10{
+    height: 20%;
+    width: 25%;
+    color: rgb(146, 146, 146);
+    font-size: 20px;
+}
+#footer{
+height: 5vh;
+width: 100%;
+background-color: black;
+}
+#f1{
+height: 100%;
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+flex-direction: row;
+}
+#f2{
+    margin-top: 15px;
+    color:rgb(146, 146, 146);
+width: 50%;
+height: 100%;
+}
+#f3{
+    margin-top: 15px;
+    width: 40%;
+    height: 100%;
+    color: rgb(146, 146, 146);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
